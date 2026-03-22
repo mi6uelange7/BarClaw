@@ -1,0 +1,10 @@
+{
+  "name": "clawpanel",
+  "version": "1.0.0",
+  "description": "Cupertino-style OpenClaw control panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js & sleep 1 && open http://localhost:3999"
+  }
+}
